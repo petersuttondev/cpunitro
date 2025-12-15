@@ -1,10 +1,10 @@
+#include <cstring>
 #include <exception>
 #include <filesystem>
 #include <fstream>
 #include <gsl/util>
 #include <iostream>
 #include <new>
-#include <string.h>
 #include <string>
 #include <unistd.h>
 
